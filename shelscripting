@@ -1,5 +1,4 @@
 #!/bin/bash
-me="test"
 
 if [ -e "$file" ];then
     if [ ! -s "$file" ];then
