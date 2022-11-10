@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+end = int(input("Enter a number")
+for i in rang(end +1):
+    if i % 2 != 0:
+        print(i, end = " ")
